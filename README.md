@@ -52,3 +52,5 @@ test(`returns the addition of both`,()=>{
 In this example, we have a function add in addition.js, and we are testing it in addition.test.js using Jest's test and expect functions.
 
 Ensure that you have the necessary project structure and files in place to run your tests successfully.
+
+![](./Screenshort(176).jpg)
