@@ -13,7 +13,7 @@ Go to Node.js official website in a web browser.
 6 Start the installation.
 7 You can verify that Node.js has been successfully installed by opening the command prompt and typing node -v.
 
-b) To check the version of npm, run:
+# b) To check the version of npm, run:
 
 npm --version
 
@@ -21,7 +21,7 @@ Make sure that your npm version is up-to-date. If not, you can update it using:
 
 npm install -g npm@latest
 
-c) To check the version of Jest, run:
+# c) To check the version of Jest, run:
 
 jest --version
 If Jest is not available, you can install it globally by running:
