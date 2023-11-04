@@ -53,4 +53,4 @@ In this example, we have a function add in addition.js, and we are testing it in
 
 Ensure that you have the necessary project structure and files in place to run your tests successfully.
 
-![](./Screenshort(176).jpg)
+![](/Screenshot%20(176).png)
